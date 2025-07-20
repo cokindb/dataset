@@ -1,0 +1,4095 @@
+{
+    "urlset": {
+	"url": [
+	    {
+		"loc": "https://cokinfilter.com/",
+		"changefreq": "daily"
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-graduated-nd2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-GNDP2SO-NUANCES-01.jpg?v=1512667332"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Graduated ND2 - Soft 1-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-graduated-nd4",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-GNDP4SO-NUANCES-01.jpg?v=1513884482"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Graduated ND4 - Soft 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-graduated-nd8",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-GNDP8SO-NUANCES-01.jpg?v=1512669420"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Graduated ND8 Soft - 3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-graduated-nd16",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-GNDZ16SO-NUANCES-01.jpg?v=1514420585"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Graduated ND16 - Soft 4-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-nd1024",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-NDZ1024-NUANCES-L1024-01.jpg?v=1533136173"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances ND1024 - 10-stop Neutral Density"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Nuances ND Filter"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-circular-polarizer",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-CV164B-105A-EVO_CPL_105mm-01.jpg?v=1515536548"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO Circular Polarizer"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-neutral-density-kit-plus",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-U3H0-25-01.jpg?v=1533136076"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Neutral Density Kit Plus"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Gradual ND Filters"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/expert-neutral-density-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-U3H4-22-01.jpg?v=1512678510"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Expert Neutral Density Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/full-neutral-density-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-U300-01-01.jpg?v=1512679206"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Full Neutral Density Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-neutral-density-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-W300-02-01.jpg?v=1513748345"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Neutral Density Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/landscape-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-U300-06-01.jpg?v=1512679729"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Landscape Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/black-and-white-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-U400-03-01.jpg?v=1512680079"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Black & White Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/the-traveller-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-U3H0-28_-_Traveller_Kit_L-01.jpg?v=1515537624"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "The Traveller Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/the-infrared-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-U1H0-27-01.jpg?v=1512681276"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "The Infrared Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/g2-nd8-hard-121",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P121-Grad-ND-Gray-01.jpg?v=1513219148"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "G2 - ND8 Hard 3-Stop Graduated Neutral Density"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/g2-nd2-121l",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P121L-Grad-ND-Gray-01.jpg?v=1513727371"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "G2 - ND2 Hard 1-Stop Graduated Neutral Density"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/g2-nd8-soft-121s",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P121S-Grad-ND-Gray-01.jpg?v=1513219817"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "G2 - ND8 Soft 3-Stop Graduated Neutral Density"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nd2-1-stop-neutral-density",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P152-ND2-01.jpg?v=1513641905"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "ND2 - 1-Stop Neutral Density"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nd4-2-stop-neutral-density",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P153-ND4-01.jpg?v=1513641919"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "ND4 - 2-Stop Neutral Density"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nd8-3-stop-neutral-density",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P154-ND8-01.jpg?v=1535797121"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "ND8 - 3-Stop Neutral Density"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "ND8 3-stop filter"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/b1-graduated-blue-hard-122",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P122-Grad-color-Blue-B1-Hard-01.jpg?v=1513635790"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "B1 - Graduated Blue - Hard 1 2/3-stops"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/b2-graduated-blue-hard-123",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P123-Grad-Color-Blue-B2-Hard-01.jpg?v=1513221159"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "B2 - Graduated Blue - Hard 2-stops"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/b2-graduated-blue-full-123f",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P123F-Grad-Color-Blue-B2-Full-01.jpg?v=1513877487"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "B2 - Graduated Blue Full Coverage - 2 1/3-stops"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/b2-graduated-blue-light-123l",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P123L-Grad-Color-Blue-B2-Light-01.jpg?v=1513635867"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "B2 - Graduated Blue Light - Hard 2/3-Stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/b2-graduated-blue-soft-123f",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P123S-Grad-Color-Blue-B2-Soft-01_36d309ef-9826-4f7d-bf06-d76bbe0c189b.jpg?v=1513329177"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "B2 - Graduated Blue - Soft 1 2/3-stops"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/t1-graduated-tobacco-124",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P124.jpg?v=1514499113"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "T1 - Graduated Tobacco - Hard 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/t2-graduated-tobacco-125",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P125-Grad-Color-Tobacco-T2-Hard-01.jpg?v=1513222417"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "T2 - Graduated Tobacco - Hard 3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/t2-graduated-tobacco-125f",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P125F-Grad-Color-Tobacco-T2-Full-01.jpg?v=1513222673"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "T2 - Graduated Tobacco - Full 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/t2-graduated-tobacco-125l",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P125L-Grad-Color-Tobacco-T2-Light-01.jpg?v=1513222902"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "T2 - Graduated Tobacco - Light 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/t2-graduated-tobacco-125s",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P125S-Grad-Color-Tobacco-T2-Soft-01.jpg?v=1513301785"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "T2 - Graduated Tobacco - Soft 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/m1-graduated-mauve",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P126-Grad-Color-Mauve-M1-Hard-01.jpg?v=1513641659"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "M1 - Graduated Mauve"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/m2-graduated-mauve",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P127-Grad-Color-Mauve-M2-Hard-01.jpg?v=1513641702"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "M2 - Graduated Mauve"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/p1-graduated-pink",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P128-Grad-Color-Pink-1-Hard-01.jpg?v=1513316548"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "P1 - Graduated Pink - Hard 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/p2-graduated-pink",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P129-Grad-Color-Pink-2-Hard-01.jpg?v=1513643306"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "P2 - Graduated Pink - Hard 3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/e1-graduated-emerald-p130",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P130-Grad-Color-Emerald-E1-Hard-01.jpg?v=1513226032"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "E1 - Graduated Emerald - Hard 1 2/3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/y1-graduated-yellow-132",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P132-Grad-Color-Yellow-1-Hard-01.jpg?v=1517860636"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Y1 - Graduated Yellow - Hard 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/y2-graduated-yellow-133",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P133-Grad-Color-Yellow-2-Hard-01_0a6bd8db-ec05-46ca-b32b-71d1417c0adb.jpg?v=1513226438"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Y2 - Graduated Yellow - Hard 3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/flw-graduated-flourescent-to-dayligh-138",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P138-Grad-Color-FLW-Hard-01.jpg?v=1513638676"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "FLW - Graduated Fluorescent Warm to Daylight Conversion"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/fld-graduated-flourescent-to-daylight",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P139-Grad-Color-FLD-Hard-01.jpg?v=1513638629"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "FLD - Graduated Fluorescent to Daylight Conversion - 2/3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-yellow-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P660-Grad-Fluo-Yellow-1-01.jpg?v=1513227079"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Yellow 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-yellow-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P661-Grad-Fluo-Yellow-2-01.jpg?v=1513227299"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Yellow 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-orange-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P662-Grad-Fluo-Orange-1-01.jpg?v=1513227465"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Orange 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-orange-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P663-Grad-Fluo-Orange-2-01.jpg?v=1513640054"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Orange 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-red-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P664-Grad-Fluo-Red-1-01.jpg?v=1513640194"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Red 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-red-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P665-Grad-Fluo-Red-2-01.jpg?v=1513640229"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Red 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-blue-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P666-Grad-Fluo-Blue-1-01.jpg?v=1513639914"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Blue 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-blue-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P667-Grad-Fluo-Blue-2-01.jpg?v=1513639929"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Blue 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-mauve-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P668-Grad-Fluo-Mauve-1-01.jpg?v=1513639977"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Mauve 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-mauve-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P669-Grad-Fluo-Mauve-2-01.jpg?v=1513640010"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Mauve 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-pink-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P670-Grad-Fluo-Pink-1-01.jpg?v=1513314784"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Pink 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/graduated-flourescent-pink-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-Z671.jpg?v=1514499238"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Graduated Fluorescent Pink 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/incolor-2-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P061-C-Spot-Incolor-02.jpg?v=1513229211"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Incolor 2 Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/grey-1-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P062-C-Spot-Gray-1-01.jpg?v=1513229776"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Grey 1 Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/grey-2-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P063-C-Spot-Gray-2-01.jpg?v=1513229931"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Grey 2 Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/violet-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P064-C-Spot-Violet-01.jpg?v=1513230071"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Violet Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/green-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P065-C-Spot-Green-01.jpg?v=1538379777"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Green Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Green Center Spot Filter"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/orange-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P066-C-Spot-Orange-01.jpg?v=1513643045"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Orange Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/blue-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P067-C-spot-Blue-01.jpg?v=1513230448"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Blue Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/red-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P068-C-Spot-Red-01.jpg?v=1513230561"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Red Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-incolor-1-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P070-C-Spot-WA-Incolor-1-01.jpg?v=1513644694"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Incolor 1 Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-incolor-2-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P071-C-Spot-WA-Incolor-2-01.jpg?v=1513644700"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Incolor 2 Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-grey-1-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P072-C-Spot-WA-Gray-1-01.jpg?v=1513644674"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Grey 1 Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-grey-2-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P073-C-Spot-WA-Gray-2-01.jpg?v=1513644683"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Grey 2 Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-violet-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P074-C-Spot-WA-Violet-01.jpg?v=1513644729"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Violet Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-green-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P075-C-Spot-WA-Green-01.jpg?v=1513644667"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Green Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-orange-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P076-C-Spot-WA-Orange-01.jpg?v=1513644709"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Orange Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-blue-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P077-C-Spot-WA-Blue-01.jpg?v=1513644661"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Blue Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-red-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P078-C-Spot-WA-Red-01.jpg?v=1513644723"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Red Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wa-pink-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P079-C-Spot-WA-Pink-01.jpg?v=1513644717"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "WA Pink Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/white-oval-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-Z140-Oval-C-Spot-White-01_copy.jpg?v=1513302556"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "White Oval Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/black-oval-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P141-Oval-C-Spot-Black-01.jpg?v=1513636162"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Black Oval Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/pink-and-blue-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P672.jpg?v=1514499184"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Pink & Blue Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow-and-pink-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P673-C-Spot-Yellow-Pink-01.jpg?v=1513233166"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow & Pink Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow-blue-center-spot",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P674-C-Spot-Blue-Yelow-01.jpg?v=1513233306"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow & Blue Center Spot"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P001-Yellow-01.jpg?v=1513233489"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/orange",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P002-Orange-01.jpg?v=1513233714"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Orange"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/red",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P003-Red-01.jpg?v=1513314435"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Red"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/green",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P004-Green-01.jpg?v=1513234057"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Green"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/sepia",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P005-Sepia-01.jpg?v=1513234238"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Sepia"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow-green",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P006-Yellow-Green-01.jpg?v=1513234383"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow Green"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/infrared-720-89b",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P007-Infrared-01.jpg?v=1513900801"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Infrared 720-89B"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/blue-80a",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P020-Blue-80A-01.jpg?v=1513234822"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Blue 80A"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/blue-80b",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P021-Blue-80B-01.jpg?v=1513235024"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Blue 80B"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/blue-80c",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P022-Blue-80C-01.jpg?v=1513235225"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Blue 80C"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/blue-82a",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P023-Blue-82A-01.jpg?v=1513235510"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Blue 82A"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/blue-82b",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P024-Blue-82B-01.jpg?v=1514745301"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Blue 82B"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/blue-82c",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P025-Blue-82C-01.jpg?v=1513235881"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Blue 82C"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/warm-81a",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P026-Warm-81A-01.jpg?v=1514494037"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Warm 81A"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/warm-81b",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P027-Warm-81B-01.jpg?v=1513236196"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Warm 81B"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/warm-81c",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P028-Warm-81C-01.jpg?v=1513644784"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Warm 81C"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/orange-85a",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P029-Orange-85A-01.jpg?v=1513236525"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Orange 85A"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/orange-85b",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P030-Orange-85B-01.jpg?v=1513236675"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Orange 85B"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/orange-85c",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P031-Orange-85C-01.jpg?v=1513236840"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Orange 85C"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/warm-81d",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P035-Warm-81D-01.jpg?v=1513236998"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Warm 81D"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/flw-flourescent-to-warm-daylight",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P036-FLW-01.jpg?v=1513275890"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "FLW - Fluorescent to Warm Daylight"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/warm-81ef",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P037-Warm-81EF-01.jpg?v=1513276131"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Warm 81EF"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/warm-81z",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P039-Warm-81Z-01.jpg?v=1533136383"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Warm 81Z"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Warming Filter"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/sepialight",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P045-Sepialight-01.jpg?v=1513276451"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Sepialight"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/fld-flourescent-to-neutral-daylight",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P046-FLD-01.jpg?v=1513276646"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "FLD - Fluorescent to Neutral Daylight"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/cyan-p050",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P050-Cyan-01.jpg?v=1513276942"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Cyan"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/sunset-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-Z197.jpg?v=1514499153"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Sunset 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/skylight-1b",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P232-Skylight-1B-01.jpg?v=1513277707"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Skylight 1B"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/pastel-1-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-X086-Net-1-White_Diffuser-01_copy.jpg?v=1513302494"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Pastel 1 Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/pastel-2-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-X087-Pastel-2-Diffuser-01_copy.jpg?v=1513302519"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Pastel 2 Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/warm-color-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P089-Warm-Color-Diffuser-01.jpg?v=1513278528"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Warm Color Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/white-net-1-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P142-Net-Fliter-1-White-01.jpg?v=1513278658"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "White Net 1 Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/black-net-1-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P143-Net-Filter-1-Black-01.jpg?v=1513636089"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Black Net 1 Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/white-net-2-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P144-Net-Fliter-2-White-01.jpg?v=1513280342"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "White Net 2 Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/white-wedding-1-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P148-Wedding-Filter-1-White-01.jpg?v=1513280719"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "White Wedding 1 Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/black-wedding-1-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P149-Wedding-Filter-1-Black-01.jpg?v=1538379836"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Black Wedding 1 Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Black Wedding 1 Diffuser"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/sunsoft-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P694-Sunsoft-M-Diffusion-01.jpg?v=1513281311"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Sunsoft Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/champagne-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P695-Champagne-M-Diffuser-01.jpg?v=1513281536"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Champagne Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/sunwarm-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P696-Softwarm-01.jpg?v=1513281668"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Sunwarm Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/warm-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P697-Diffuser-Warm-01.jpg?v=1513281785"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Warm Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/light-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P820-Diffuser-Light-01.jpg?v=1513281930"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Light Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/diffuser-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P830-Diffuser-1-01.jpg?v=1513283138"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Diffuser 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/diffuser-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily"
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/diffuser-3",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P850-Diffuser-2-01.jpg?v=1513283463"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Diffuser 3"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/circular-polarizer",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P164_Polarizer-01.jpg?v=1513880215"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Circular Polarizer"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/varicolor-blue-lime-polarizer",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P174-Varicolor-PL-Blue-Lime-01.jpg?v=1513285542"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "VariColor Blue/Lime Polarizer"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/star-8",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P056-Star8-01v2.jpg?v=1513802418"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Star Effect 8"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/star-4",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P057-Star4-01.jpg?v=1513285793"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Star Effect 4"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/star-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P058-Star2-01_v2.jpg?v=1513802367"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Star Effect 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/soft-star",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P059-Softstar-01.jpg?v=1513286016"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Soft Star"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/dreams-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P091-Dreams-1-01v2.jpg?v=1513802206"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Dreams 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/dreams-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P092-Dreams-2-01v2.jpg?v=1513802231"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Dreams 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/dreams-3",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P093-Dreams-3-01v2.jpg?v=1513802254"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Dreams 3"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/close-up-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P101-Close-Up-_1-01v2.jpg?v=1513801693"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Close-up +1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/close-up-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P102-Close-Up-_2-02v2.jpg?v=1513801726"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Close-up +2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/rainbow-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P195-Rainbow-1-01.jpg?v=1513301937"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Rainbow 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/rainbow-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P196-Rainbow-2-01.jpg?v=1513301955"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Rainbow 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/multi-image-x25",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P204-Multi-image-x25-1-01_a50877d7-ee2a-420d-bc05-4727aa81a0ae.jpg?v=1513803184"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Multi-Image x25"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/creative-mask",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P340-Creative-Mask-01.jpg?v=1535797526"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Creative Filter System Mask"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Cokin Creative Mask Filter system"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/double-mask-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P342-Double-Mask1-02.jpg?v=1513803093"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Double Mask 1"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/double-mask-2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P345-Double-Mask2-02.jpg?v=1513803124"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Double Mask 2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/cyan-cc05c",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P700-Cyan-CC05C-01.jpg?v=1513302252"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Cyan CC05C"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/cyan-cc10c",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P701-Cyan-CC10C-01.jpg?v=1513302315"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Cyan CC10C"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/cyan-cc20c",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P703-Cyan-CC20C-01.jpg?v=1513302344"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Cyan CC20C"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/cyan-cc40c",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P707-Cyan-CC40C-01.jpg?v=1513302414"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Cyan CC40C"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/magenta-cc05m",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P710-Magenta-CC05M-01.jpg?v=1513288976"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Magenta CC05M"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/magenta-cc40m",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P717-Magenta-CC40M-01.jpg?v=1513641781"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Magenta CC40M"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow-cc05y",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P720-Yellow-CC05Y-01.jpg?v=1513289745"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow CC05Y"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow-cc10y",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P721-Yellow-CC10Y-01.jpg?v=1513289853"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow CC10Y"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow-cc20y",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P723-Yellow-CC20Y-01.jpg?v=1513289983"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow CC20Y"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow-cc30y",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P725-Yellow-CC30Y-01.jpg?v=1513290087"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow CC30Y"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow-cc40y",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P727-Yellow-CC40Y-01.jpg?v=1513290187"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow CC40Y"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/yellow-cc50y",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P729-Yellow-CC50Y-01.jpg?v=1513290294"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Yellow CC50Y"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/m-series-filter-holder",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-BP400A-M-_P_-Series-Holder-01_73b445c4-3d84-4d80-81b4-f4aab21679b7.jpg?v=1513748869"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Filter Holder for P-Series Filters"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wide-angle-filter-holder",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-BP400A-M-_P_-Back-03.jpg?v=1513290974"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "P-Series Wide-Angle Filter Holder"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/adapter-ring-cap",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P253-M-Protect-Cap-01_f2280163-835f-46a8-9bca-d657ad381ffb.jpg?v=1513814351"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "P-Series Adapter Ring Cap"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/filter-wallet-holds-5-filters",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_Creative_carrying_case_L_-_Z3068_-_1.jpg?v=1514678407"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Filter Case - Holds 5 Filters and Holder"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/modular-hoods",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P255-M-Hood-01.jpg?v=1513292002"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Modular Hoods"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/filter-wallet-z3067",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-X3067-Multi-Filter-Wallet-L-01.jpg?v=1517864233"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Filter Wallet - Holds 3 filters, Holder and Rings"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/protective-lens-cap",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P252-M-01A_dfc379ca-70ad-4b4e-b9e9-6686c4635b6b.jpg?v=1513814406"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Protective Lens Cap"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/filter-wallet-3061",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-X3061-Filter-Wallet-Single-01.jpg?v=1517864351"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Filter Wallet - Holds 1 Filter"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/l-series-adapter-rings",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-Z467-67mm-L-Adapter-01.jpg?v=1513635200"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Adapter Rings for Z-pro Series Filter Holder"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/m-series-adapter-rings",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P449-49mm-M-Adapter-01.jpg?v=1513635489"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Adapter Rings for P-Series Filter Holders"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/xl-series-adapter-rings",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-X462-62mm-XL-Adapter-01.jpg?v=1535797315"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Adapter Rings for X-pro Series Filter Holders"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Adapter Rings for XL (X) Series Filter Holders"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/extension-rings",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-R4949-Extension-Ring-01.jpg?v=1533136257"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Extension Rings"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Extension Ring"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/g2-nd4-121m",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P121M-Grad-ND-Gray-01.jpg?v=1513301297"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "G2 - ND4 Hard 2-Stop Graduated Neutral Density"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/filter-holder-for-l-series",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-BX100A-XL-_X_-Series-Holder-01_ef19ec1d-8ae8-4494-9024-8514bda8b6a8.jpg?v=1514504477"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Filter Holder for Z-pro Series Filters"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/xl-filter-holder",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-BZ100A-L-_Z_-Series-Holder-01.jpg?v=1514504569"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Filter Holder for X-pro Series Filters"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-circular-polarizer-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/EVO15-30M.jpg?v=1515539732"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO Circular Polarizer Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/g1-graduated-neutral-density",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P120-Grad-ND-1-2thirds-Stops-01.jpg?v=1538379712"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "G1 - Hard 1 2/3-Stop Graduated Neutral Density"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Cokin ND Filter"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/black-net-2-diffuser",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P145-Net-Filter-2-Black-01.jpg?v=1515632310"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Black Net 2 Diffuser"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/wide-angle-lens-conversion-adapter",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-P362M-Z-P-Adapter-01_867fd1d9-7b9f-46c6-b92c-87d9c81b3b89.jpg?v=1517867372"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "L-series Filter to M-series Holder Adapter"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/spare-parts-for-evo-series-holders",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-DIV01-Parts-Set-01.jpg?v=1517865096"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Spare Parts for Filter Holders"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/filter-holder-for-olympus-7-14mm",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-BX100-OLY_TOP-01.jpg?v=1534447393"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Filter Holder for Olympus 7-14mm Pro"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-graduated-nd16-soft-4-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXZSG16-Nunaces-EX-L-Soft-GND_16.jpg?v=1522883045"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Graduated ND16 - Soft 4-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-reverse-graduated-nd16-soft-4-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXZRG16-Nuances-EX-L-Reverse-GND_16.jpg?v=1522883410"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Reverse Graduated ND16 - Soft 4-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-graduated-nd8-soft-3-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXZSG8-Nunaces-EX-L-Soft-GND_8.jpg?v=1522883180"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Graduated ND8 - Soft 3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-graduated-nd4-soft-2-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXZSG4-Nuances-EX-L-Soft-GND_4.jpg?v=1522883158"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Graduated ND4 - Soft 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-reverse-graduated-nd8-soft-3-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXZRG8-Nuances-EX-L-Reverse-GND_8.jpg?v=1522883458"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Reverse Graduated ND8 - 3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-reverse-graduated-nd4-soft-2-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXZRG4-Nuances-EX-L-Reverse-GND_4.jpg?v=1522883432"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Reverse Graduated ND4 - Soft 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-center-graduated-nd8-3-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXZCG8-Nuances-EX-L-Center-GND_8.jpg?v=1522882944"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Center Graduated ND8 - 3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-center-graduated-nd4-2-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXZCG4-Nunaces-EX-L-Center-GND_4.jpg?v=1522882893"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Center Graduated ND4 - 2-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-neutral-density-nd1024-10-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXX1024-Nuances-EX-XL-10-StopND1024_copy.jpg?v=1522885299"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme ND1024 - 10-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-neutral-density-nd64-6-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin_NXZ64-Nunaces-EX-L-ND64-3.jpg?v=1539901975"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Neutral Density ND64 - 6-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-nd-smart-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Nuances_Extreme_Smart_kit_-_1A.jpg?v=1539904591"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme ND Smart Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-reverse-graduated-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Nuances_Extreme_GND_reverse_kit_-_1A.jpg?v=1539905410"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Reverse Graduated kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-soft-graduated-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Nuances_Extreme_GND_soft_kit_-_1A.jpg?v=1539906418"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Soft Graduated Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-clearsky-light-pollution-filter",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/NNPSKY-Cokin-Clearsky-filter-for-P-series-holders.jpg?v=1559604466"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Clearsky Light Pollution Square Filters"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-clearsky-light-pollution-round-filters",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/CNSKY-52_-_Cokin_Nuances_Clearsky_-_52mm_Round.jpg?v=1562092321"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Clearsky Light Pollution - Round Filters"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-variable-neutral-density-2-400-1-8-stops",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/CNV2-77_Nuances_ND2-400_77mm_-_Front_Box_Panel.png?v=1560721369"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Variable Neutral Density 2-400 (1-8 stops)"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Front of box for cokin nuances variable ND camera filter"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-variable-neutral-density-32-1000-5-10-stops",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-Variable-Neutral-Density-5-10-stops-front-box-panel.jpg?v=1560721087"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Variable Neutral Density 32-1000 (5-10 stops)"
+		    },
+		    "caption": {
+			"__prefix": "image",
+			"__text": "Cokin Nuances Variable ND Filter Box"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/cokin-lens-xl-cloths-2-pack",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-lens-cloths-2-pack.jpg?v=1562625645"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Premium Lens Cleaning Cloth with Cokin Logo (2-pack)"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-neutral-density-nd8-3-stop",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/NXX8-Nuances-Extreme-3-stop-neutral-density-filter-for-X-pro-holders.png?v=1568227201"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Neutral Density ND8 - 3-stop"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-infrared-filter-1",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/X0072-Cokin-infrared-filter-for-X-pro-series-filter-holders.png?v=1568226606"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Infrared Filter"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-system-carrying-case-v2",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/EVO14W2L-Cokin-EVO-Wallet-for-Z-pro-holders-and-filters-main.jpg?v=1568229740"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO System Carrying Case v2"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-filter-holder-system-p-series",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/COKIN-BPE01-EVO_HOLDER_a888aac4-0f9d-4c79-bb27-09bd191a9628.jpg?v=1592866142"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO Filter Holder System - P-series"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-filter-holder-system-z-pro-series",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-BZE01-EVOHolderL_Z_Front-01.jpg?v=1592931834"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO Filter Holder System - Z-pro Series"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-filter-holder-system-x-pro-series",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-BXE01-EVO-X-Holder-01.jpg?v=1592934251"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO Filter Holder System - X-pro Series"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-bellows-p-series-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/EVO-Bellows-P-KIT-06.jpg?v=1595530575"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO Bellows - P series - Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-bellows-p-series",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/EVO-Bellows-P-03.jpg?v=1595526038"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO Bellows - P series"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-bellows-z-series-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/EVO-Bellows-Z-KIT-06.jpg?v=1595528216"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO Bellows - Z series - Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/evo-bellows-z-series",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/EVO-Bellows-Z-03.jpg?v=1595527412"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "EVO Bellows - Z series"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-filter-holder",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/NX-Series-holder-01.jpg?v=1671144475"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Filter Holder"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-circular-polarizer",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/CK-POL01NXS_NXCPLFilter-product01.jpg?v=1619629879"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Circular Polarizer"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-system-bag",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/NX-Series-wallet-01.jpg?v=1619025272"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX System Bag"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-starter-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Starter-kit-final-render-01.jpg?v=1619025549"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Starter Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-long-exposure-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/long-exposure-kit-01.jpg?v=1619025949"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Long Exposure Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-landscape-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/landscape-kit-01.jpg?v=1619026297"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Landscape Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-expert-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/expert-kit-01.jpg?v=1619026496"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Expert Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-professional-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/professional-kit-01.jpg?v=1619026632"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Professional Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-frame-100x100",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/CK-FR100NXS-100x100frame-product01.jpg?v=1619474497"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Frame - 100mm x 100mm"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-frame-100x143-5",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-NX-Series-frames-100x143.5-product01.jpg?v=1619474967"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Frame - 100mm x 143.5mm"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-frame-100x150",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/Cokin-NX-Series-frames-100x143.5-product01_d4d1facc-1fd8-4216-a294-e7b8598aa060.jpg?v=1619475154"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Frame - 100mm x 150mm"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-adaptor-ring-cap",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/CK-Z2532_NX-Adapter-Ring-Cap-product01.jpg?v=1619630271"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Adapter Ring Cap"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nikon-14-24mm-z-adapter-ring",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/CokinadapterringZ4101-3.jpg?v=1648480923"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Adapter Ring for Nikkor Z 14-24mm F2.8 S"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-series-adapter-ring-for-sony-14mm-f1-8-gm",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/special-adapter-ring-for-sony-fe-14mm-f18-gm.jpg?v=1668800938"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Adapter Ring for Sony 14mm f1.8 GM"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-series-backpacker-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/files/CokinNX-SeriesKitBackpaper-2_f916adbf-1d10-4a2c-ad5f-82d027faebc9.jpg?v=1683235670"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Backpacker Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-series-discovery-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/CokinNX-SeriesKitDiscovery-2.jpg?v=1673559725"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Discovery Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nx-series-golden-hour-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/CokinNX-SeriesKitGoldenHour-2.jpg?v=1673559774"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "NX Series Golden Hour Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/transitions-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/NuancesExtremeTransitionsKitLsize-14.jpg?v=1673369714"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Transitions Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    },
+	    {
+		"loc": "https://cokinfilter.com/products/nuances-extreme-hard-gnd-kit",
+		"lastmod": "2025-07-19T18:02:41-07:00",
+		"changefreq": "daily",
+		"image": {
+		    "loc": {
+			"__prefix": "image",
+			"__text": "https://cdn.shopify.com/s/files/1/2442/3155/products/NuancesExtremeGraduatedNDHardKitLsize-14_1x1_a740cd5b-628d-4344-af36-fc50af3aa67a.jpg?v=1673374609"
+		    },
+		    "title": {
+			"__prefix": "image",
+			"__text": "Nuances Extreme Hard GND Kit"
+		    },
+		    "caption": {
+			"__prefix": "image"
+		    },
+		    "__prefix": "image"
+		}
+	    }
+	],
+	"_xmlns": "http://www.sitemaps.org/schemas/sitemap/0.9",
+	"_xmlns:image": "http://www.google.com/schemas/sitemap-image/1.1"
+    }
+}
